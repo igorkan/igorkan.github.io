@@ -1,7 +1,119 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="courses.xsl"?>
 <coursesList>
+<season actual="true">
+		<name>Spring 2024</name>
+		<location>
+			<code img="gifs/pac_logo.jpg" name="Peres Academic Center"/>
+			<course>
+				<name>Application development</name>
+				<url></url>
+			</course>
+			<course>
+				<name>Advanced Web programming</name>
+				<url></url>
+			</course>
+			<course>
+				<name>Web Programming</name>
+				<url></url>
+			</course>
+			<course>
+				<name>Web Programming (for Business Administration)</name>
+				<url></url>
+			</course>
+        </location>
+		
+
+</season>
 <season >
+<name>Fall 2023</name>
+		<location>
+			<code img="gifs/pac_logo.jpg" name="Peres Academic Center"/>
+			<course>
+				<name>Information search and retrieval</name>
+				<url></url>
+			</course>
+			<course>
+				<name>System Programming and Development in the Internet Environment</name>
+				<url></url>
+			</course>
+        </location>
+		
+ 
+	</season>
+<season actual="true">
+		<name>Spring 2023</name>
+		<location>
+			<code img="gifs/pac_logo.jpg" name="Peres Academic Center"/>
+			<course>
+				<name>Application development</name>
+				<url></url>
+			</course>
+			<course>
+				<name>Advanced Web programming</name>
+				<url></url>
+			</course>
+			<course>
+				<name>Seminar – Microservices</name>
+				<url></url>
+			</course>
+			<course>
+				<name>Web Programming (for Business Administration)</name>
+				<url></url>
+			</course>
+        </location>
+		
+
+</season>
+<season >
+<name>Fall 2022</name>
+		<location>
+			<code img="gifs/pac_logo.jpg" name="Peres Academic Center"/>
+			<course>
+				<name>Cloud Based Software Version Control</name>
+				<url></url>
+			</course>
+			<course>
+				<name>Information search and retrieval</name>
+				<url></url>
+			</course>
+			<course>
+				<name>System Programming and Development in the Internet Environment</name>
+				<url></url>
+			</course>
+        </location>
+		
+ 
+	</season>
+<season actual="true">
+		<name>Spring 2022</name>
+		<location>
+			<code img="gifs/pac_logo.jpg" name="Peres Academic Center"/>
+			<course>
+				<name>Application development</name>
+				<url></url>
+			</course>
+			<course>
+				<name>Introduction to Cyber Security</name>
+				<url></url>
+			</course>
+			<course>
+				<name>Web Programming (for Business Administration)</name>
+				<url></url>
+			</course>
+        </location>
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Development of Internet Based System</name>
+				<url></url>
+			</course>
+
+		</location>
+
+
+</season>
+<season>
 <name>Fall 2021</name>
 		<location>
 			<code img="gifs/pac_logo.jpg" name="Peres Academic Center"/>
