@@ -2,62 +2,50 @@
 <html>
   <head>
     <meta charset="UTF-8" />
-    <meta name="keywords" content="איגור קנובסקי" />
+    <meta name="keywords" content="Igor Kanovsky, איגור קנובסקי" />
     <title>Site of Igor Kanovsky</title>
     <script>
-      <!-- Start hiding the script code.
+      // first image = "About us"
+      img1on = new Image(200, 85);
+      img1on.src = "gifs/infobiga.gif";
+      img1off = new Image(200, 85);
+      img1off.src = "gifs/p1.gif";
 
-      // Filter out browsers which support javascripts
+      // second image = "Education"
+      img2on = new Image(200, 85);
+      img2on.src = "gifs/applebiga.gif";
+      img2off = new Image(200, 85);
+      img2off.src = "gifs/p4.gif";
 
-      name = navigator.appName;
-      version = parseInt(navigator.appVersion);
-      ok =
-        (name == "Netscape" && version >= 3) ||
-        (name == "Microsoft Internet Explorer" && version >= 4);
+      // third image = "People"
+      img3on = new Image(200, 85);
+      img3on.src = "gifs/peoplebiga.gif";
+      img3off = new Image(200, 85);
+      img3off.src = "gifs/p2.gif";
 
-      if (ok) {
-        // first image = "About us"
-        img1on = new Image(200, 85);
-        img1on.src = "gifs/infobiga.gif";
-        img1off = new Image(200, 85);
-        img1off.src = "gifs/p1.gif";
+      // fourth image = "Research"
+      img4on = new Image();
+      img4on.src = "gifs/lightbiga.gif";
+      img4off = new Image(200, 85);
+      img4off.src = "gifs/p5.gif";
 
-        // second image = "Education"
-        img2on = new Image(200, 85);
-        img2on.src = "gifs/applebiga.gif";
-        img2off = new Image(200, 85);
-        img2off.src = "gifs/p4.gif";
+      // fifth image = "Links"
+      img5on = new Image(200, 85);
+      img5on.src = "gifs/chainbiga.gif";
+      img5off = new Image(200, 85);
+      img5off.src = "gifs/p3.gif";
 
-        // third image = "People"
-        img3on = new Image(200, 85);
-        img3on.src = "gifs/peoplebiga.gif";
-        img3off = new Image(200, 85);
-        img3off.src = "gifs/p2.gif";
+      // sixth image = "Publications"
+      img6on = new Image(200, 85);
+      img6on.src = "gifs/booksbiga.gif";
+      img6off = new Image(200, 85);
+      img6off.src = "gifs/p6.gif";
 
-        // fourth image = "Research"
-        img4on = new Image();
-        img4on.src = "gifs/lightbiga.gif";
-        img4off = new Image(200, 85);
-        img4off.src = "gifs/p5.gif";
-
-        // fifth image = "Links"
-        img5on = new Image(200, 85);
-        img5on.src = "gifs/chainbiga.gif";
-        img5off = new Image(200, 85);
-        img5off.src = "gifs/p3.gif";
-
-        // sixth image = "Publications"
-        img6on = new Image(200, 85);
-        img6on.src = "gifs/booksbiga.gif";
-        img6off = new Image(200, 85);
-        img6off.src = "gifs/p6.gif";
-
-        // seventh image = "Spotlight"
-        img7on = new Image(200, 255);
-        img7on.src = "gifs/spotlight.gif";
-        img7off = new Image(200, 300);
-        img7off.src = "gifs/p7.gif";
-      }
+      // seventh image = "Spotlight"
+      img7on = new Image(200, 255);
+      img7on.src = "gifs/spotlight.gif";
+      img7off = new Image(200, 300);
+      img7off.src = "gifs/p7.gif";
 
       function imgSwap(imagename, objectsrc) {
         if (ok) document.images[imagename].src = eval(objectsrc + ".src");
