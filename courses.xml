@@ -1,0 +1,1098 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="courses.xsl"?>
+<coursesList>
+<season >
+<name>Fall 2021</name>
+		<location>
+			<code img="gifs/pac_logo.jpg" name="Peres Academic Center"/>
+			<course>
+				<name>Data Communications</name>
+				<url></url>
+			</course>
+			<course>
+				<name>Information search and retrieval</name>
+				<url></url>
+			</course>
+			<course>
+				<name>System Programming and Development in the Internet Environment</name>
+				<url></url>
+			</course>
+        </location>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern Academic College of Emek Yezreel"/>
+			<course>
+				<name>Computer Networks</name>
+				<url></url>
+			</course>
+			<course>
+				<name>Cloud Based Software Version Control</name>
+				<url></url>
+			</course>
+        </location>
+ 
+	</season>
+<season actual="true">
+		<name>Spring 2021</name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern College of Emek Yezreel"/>
+			<course>
+				<name>Introduction to Internet Technologies </name>
+				<url>./2021S/I2InT/course.xml</url>
+			</course>
+
+			
+		</location>
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Development of Internet Based System</name>
+				<url>./2021S/Web-UoH/course.xml</url>
+			</course>
+
+		</location>
+
+
+	</season>
+<season >
+
+		<name>Fall 2020</name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern Academic College of Emek Yezreel"/>
+			<course>
+				<name>Computer Networks</name>
+				<url>./2020F/Net/course.xml</url>
+			</course>
+        </location>
+ 
+	</season>
+	<season >
+		<name>Spring 2020</name>
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Development of Internet Based System</name>
+				<url>./2020F/WebApp-UoH/course.xml</url>
+			</course>
+
+		</location>
+
+
+	</season>
+	<season >
+		<name>Fall 2019</name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern Academic College of Emek Yezreel"/>
+			<course>
+				<name>Computer Networks</name>
+				<url>./2019F/Net/course.xml</url>
+			</course>
+			<course>
+				<name>Fundamentals of Information Systems</name>
+				<url>./2019F/FIS/course.xml</url>
+			</course>
+		</location>
+		<!-- <location>
+          <code img="gifs/uni.gif" name="University of Haifa"/>
+          <course>
+            <name>Development of Internet Based System</name>
+            <url>./2018F/WebApp-UoH/course.xml</url>
+          </course>
+		
+        </location>
+  -->
+	</season>
+
+	<season >
+		<name>Spring 2019</name>
+
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern College of Emek Yezreel"/>
+			<course>
+				<name>Introduction to Internet Technologies </name>
+				<url>./2019S/I2InT/course.xml</url>
+			</course>
+
+			<course>
+				<name>Seminar on Complex Networks</name>
+				<!-- -->
+				<url>./2019S/CN/course.xml</url>
+			</course>
+		</location>
+
+	</season>
+	<season >
+		<name>Fall 2018</name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern Academic College of Emek Yezreel"/>
+			<course>
+				<name>Computer Networks</name>
+				<url>./2018F/Net/course.xml</url>
+			</course>
+			<course>
+				<name>Fundamentals of Information Systems</name>
+				<url>./2018F/FIS/course.xml</url>
+			</course>
+		</location>
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Development of Internet Based System</name>
+				<url>./2018F/WebApp-UoH/course.xml</url>
+			</course>
+		</location>
+
+	</season>
+	<season >
+		<name>Spring 2018</name>
+
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern College of Emek Yezreel"/>
+			<course>
+				<name>Introduction to Internet Technologies </name>
+				<url>./2018S/I2InT/course.xml</url>
+			</course>
+
+			<course>
+				<name>Seminar on Complex Networks</name>
+				<url>./2018S/CN/course.xml</url>
+			</course>
+
+		</location>
+
+	</season>
+	<season >
+		<name>Fall 2017</name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern Academic College of Emek Yezreel"/>
+			<course>
+				<name>Computer Networks</name>
+				<url>./2017F/Net/course.xml</url>
+			</course>
+			<course>
+				<name>Fundamentals of Information Systems</name>
+				<url>./2017F/FIS/course.xml</url>
+			</course>
+
+		</location>
+
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Development of Internet Based System</name>
+				<url>./2017F/WebApp-UoH/course.xml</url>
+			</course>
+		</location>
+
+	</season>
+	<season >
+		<name>Spring 2017</name>
+
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern College of Emek Yezreel"/>
+			<course>
+				<name>Introduction to Internet Technologies </name>
+				<url>./2017S/I2InT/course.xml</url>
+			</course>
+			<course>
+				<name>Data Mining</name>
+				<url>./2016F/DM/course.xml</url>
+			</course>
+
+		</location>
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Information Technology for MBA</name>
+				<url>./2017F/IT-MBA/course.xml</url>
+			</course>
+		</location>
+
+	</season>
+
+	<season >
+		<name>Fall 2016</name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern Academic College of Emek Yezreel"/>
+			<course>
+				<name>Computer Networks</name>
+				<url>./2016F/Net/course.xml</url>
+			</course>
+
+
+		</location>
+
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Development of Internet Based System</name>
+				<url>./2016F/WebApp-UoH/course.xml</url>
+			</course>
+		</location>
+
+	</season>
+	<season >
+		<name>Spring 2016</name>
+
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern College of Emek Yezreel"/>
+			<course>
+				<name>Introduction to Internet Technologies </name>
+				<url>./2016S/I2InT/course.xml</url>
+			</course>
+			<course>
+				<name>Information Retrieval</name>
+				<url>./2016S/ir/course.xml</url>
+			</course>
+
+		</location>
+
+
+	</season>
+
+	<season >
+		<name>Fall 2015</name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern Academic College of Emek Yezreel"/>
+			<course>
+				<name>Computer Networks</name>
+				<url>./2015F/Net/course.xml</url>
+			</course>
+			<course>
+				<name>Mobile App Development</name>
+				<url>./2015F/mobile/course.xml</url>
+			</course>
+
+		</location>
+
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Development of Internet Based System</name>
+				<url>./2015F/WebApp-UoH/course.xml</url>
+			</course>
+		</location>
+
+	</season>
+
+
+
+	<season >
+		<name>Spring 2015</name>
+
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern College of Emek Yezreel"/>
+			<course>
+				<name>Introduction to Internet Technologies </name>
+				<url>./2015S/I2InT/course.xml</url>
+			</course>
+			<course>
+				<name>Information Retrieval</name>
+				<url>./2015S/ir/course.xml</url>
+			</course>
+			<course>
+				<name>Mobile App Development</name>
+				<url>./2014F/mobile/course.xml</url>
+			</course>
+
+		</location>
+
+
+		<location>
+			<code img="gifs/kinneret-logo.jpg" name="Kinneret College of the Sea of Galilee"/>
+			<course>
+				<name>Selected Topics in Information Systems: XML based technologies.</name>
+				<url>./2015S/xml@kinneret/course.xml</url>
+			</course>
+		</location>
+	</season>
+
+	<season >
+		<name>Fall 2014</name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern Academic College of Emek Yezreel"/>
+			<course>
+				<name>Computer Networks</name>
+				<url>./2014F/Net/course.xml</url>
+			</course>
+			<course>
+				<name>Data Mining</name>
+				<url>./2014F/DM/course.xml</url>
+			</course>
+
+
+		</location>
+
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Development of Internet Based System</name>
+				<url>./2014F/WebApp-UoH/course.xml</url>
+			</course>
+		</location>
+
+	</season>
+	<season >
+		<name>Fall 2013</name>
+
+
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Development of Internet Based System</name>
+				<url>./2013F/WebApp-UoH/course.xml</url>
+			</course>
+		</location>
+	</season>
+
+
+	<season >
+		<name>Spring 2013</name>
+
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern College of Emek Yezreel"/>
+			<course>
+				<name>Introduction to Internet Technologies </name>
+				<url>./2013S/I2InT/course.xml</url>
+			</course>
+			<course>
+				<name>Information Retrieval</name>
+				<url>./2013S/ir/course.xml</url>
+			</course>
+
+
+		</location>
+
+
+		<location>
+			<code img="gifs/kinneret-logo.jpg" name="Kinneret College of the Sea of Galilee"/>
+			<course>
+				<name>Selected Topics in Information Systems: XML based technologies.</name>
+				<url>./2013S/xml@kinneret/course.xml</url>
+			</course>
+		</location>
+	</season>
+
+	<season >
+		<name>Fall 2012</name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern Academic College of Emek Yezreel"/>
+			<course>
+				<name>Computer Networks</name>
+				<url>./2012F/Net/course.xml</url>
+			</course>
+
+			<course>
+				<name>Mobile App Development</name>
+				<url>./2012F/mobile/course.xml</url>
+			</course>
+
+		</location>
+
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Development of Internet Based System</name>
+				<url>./2012F/WebApp-UoH/course.xml</url>
+			</course>
+		</location>
+		<location>
+			<code img="gifs/kinneret-logo.jpg" name="Kinneret College of the Sea of Galilee"/>
+
+			<course>
+				<name>Information Retrieval and Digital Libraries </name>
+				<url>./2012F/IR-Kinneret/course.xml</url>
+			</course>
+			<course>
+				<name>Development of Internet Based System</name>
+				<url>./2012F/Web-kinneret/course.xml</url>
+			</course>
+		</location>
+	</season>
+	<season >
+		<name>Spring 2012</name>
+
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern College of Emek Yezreel"/>
+			<course>
+				<name>Introduction to Internet Technologies </name>
+				<url>./2012S/I2InT/course.xml</url>
+			</course>
+			<course>
+				<name>Information Retrieval</name>
+				<url>./2012S/ir/course.xml</url>
+			</course>
+
+
+		</location>
+
+
+		<location>
+			<code img="gifs/kinneret-logo.jpg" name="Kinneret College of the Sea of Galilee"/>
+			<course>
+				<name>Selected Topics in Information Systems: XML based technologies.</name>
+				<url>./2012S/xml@kinneret/course.xml</url>
+			</course>
+		</location>
+	</season>
+
+	<season >
+		<name>Fall 2011</name>
+
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern Academic College of Emek Yezreel"/>
+			<course>
+				<name>Computer Networks</name>
+				<url>./2011F/Net/course.xml</url>
+			</course>
+
+			<course>
+				<name>Distributed Systems and Web Services</name>
+				<url>./2011F/DS-WS/course.xml</url>
+			</course>
+
+		</location>
+
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Development of Internet Based System</name>
+				<url>./2011F/WebApp-UoH/course.xml</url>
+			</course>
+		</location>
+		<location>
+			<code img="gifs/kinneret-logo.jpg" name="Kinneret College of the Sea of Galilee"/>
+
+			<course>
+				<name>Information Retrieval and Digital Libraries </name>
+				<url>./2011F/IR-Kinneret/course.xml</url>
+			</course>
+			<course>
+				<name>Development of Internet Based System</name>
+				<url>./2011F/Web-kinneret/course.xml</url>
+			</course>
+		</location>
+	</season>
+
+	<season >
+		<name>Spring 2011</name>
+
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern College of Emek Yezreel"/>
+			<course>
+				<name>Introduction to Internet Technologies </name>
+				<url>./2011S/I2InT/course.xml</url>
+			</course>
+			<course>
+				<name>Information Retrieval</name>
+				<url>./2011S/ir/course.xml</url>
+			</course>
+			<course>
+				<name>Information System Applications for Business</name>
+				<url>./2011S/isa4b/course.xml</url>
+			</course>
+
+		</location>
+
+
+		<location>
+			<code img="gifs/kinneret-logo.jpg" name="Kinneret College of the Sea of Galilee"/>
+			<course>
+				<name>Selected Topics in Information Systems: XML based technologies.</name>
+				<url>./2011S/xml@kinneret/course.xml</url>
+			</course>
+		</location>
+	</season>
+	<season >
+		<name>Fall 2010</name>
+
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern Academic College of Emek Yezreel"/>
+			<course>
+				<name>Computer Networks</name>
+				<url>./2010F/Net/course.xml</url>
+			</course>
+			<course>
+				<name>Advanced Java Programming </name>
+				<url>./2010F/AdvJava/course.xml</url>
+			</course>
+			<course>
+				<name>Distributed Systems and Web Services</name>
+				<url>./2010F/DS-WS/course.xml</url>
+			</course>
+
+		</location>
+
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Development of Internet Based System</name>
+				<url>./2010F/WebApp-UoH/course.xml</url>
+			</course>
+		</location>
+		<location>
+			<code img="gifs/kinneret-logo.jpg" name="Kinneret College of the Sea of Galilee"/>
+
+			<course>
+				<name>Information Retrieval and Digital Libraries </name>
+				<url>./2010F/IR-Kinneret/course.xml</url>
+			</course>
+			<!-- <course>
+				<name>Selected Topics in Information Systems: XML based technologies.</name>
+				<url>./2008F/xml@kinneret/</url>
+			</course> -->
+		</location>
+	</season>
+
+
+	<season >
+		<name>Spring 2010</name>
+
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern College of Emek Yezreel"/>
+			<course>
+				<name>Introduction to Internet Technologies </name>
+				<url>./2010S/IInetT/course.xml</url>
+			</course>
+			<course>
+				<name>Information System Applications for Business</name>
+				<url>./2010S/isa4b/course.xml</url>
+			</course>
+			<course>
+				<name>Information Systems for Business</name>
+				<url>./2010S/is4b/course.xml</url>
+			</course>
+		</location>
+
+
+		<location>
+			<code img="gifs/kinneret-logo.jpg" name="Kinneret College of the Sea of Galilee"/>
+			<course>
+				<name>Selected Topics in Information Systems: XML based technologies.</name>
+				<url>./2010S/xml@kinneret/course.xml</url>
+			</course>
+		</location>
+	</season>
+	<season >
+		<name>Fall 2009</name>
+
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern College of Emek Yezreel"/>
+			<course>
+				<name>Advanced Java Programming </name>
+				<url>./2009F/jee/course.xml</url>
+			</course>
+			<course>
+				<name>Distributed Systems and Web Services</name>
+				<url>./2009F/soa/course.xml</url>
+			</course>
+
+		</location>
+
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Development of Internet Based System</name>
+				<url>./2009F/WebApp@UoH/course.xml</url>
+			</course>
+		</location>
+		<location>
+			<code img="gifs/kinneret-logo.jpg" name="Kinneret College of the Sea of Galilee"/>
+			<course>
+				<name>Development of Internet Based System</name>
+				<url>./2009F/Web@kinneret/course.xml</url>
+			</course>
+			<course>
+				<name>Information Retrieval and Digital Libraries </name>
+				<url>./2009F/ir@kinneret/course.xml</url>
+			</course>
+			<!-- <course>
+				<name>Selected Topics in Information Systems: XML based technologies.</name>
+				<url>./2008F/xml@kinneret/</url>
+			</course> -->
+		</location>
+	</season>
+	<season >
+		<name>Spring 2009</name>
+
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern College of Emek Yezreel"/>
+			<course>
+				<name>Distributed Systems and Web Services</name>
+				<url>./2009S/soa/course.xml</url>
+			</course>
+			<course>
+				<name>Information System Applications for Business</name>
+				<url>./2009S/isa4b/course.xml</url>
+			</course>
+
+		</location>
+
+
+	</season>
+	<season >
+		<name>Fall 2008</name>
+
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern College of Emek Yezreel"/>
+			<course>
+				<name>Computer Networks</name>
+				<url>./2008F/networks/course.xml</url>
+			</course>
+			<course>
+				<name>SQL servers: Programming and Administration </name>
+				<url>./2008F/sql/course.xml</url>
+			</course>
+
+			<course>
+				<name>Advanced Java Programming </name>
+				<url>./2008F/jee/course.xml</url>
+			</course>
+			<course>
+				<name>Information Systems for Busynesses</name>
+				<url>./2008F/is4b/course.xml</url>
+			</course>
+
+		</location>
+
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Development of Internet Based System</name>
+				<url>./2008F/jsp@UoH/</url>
+			</course>
+		</location>
+
+	</season>
+	<season>
+		<name>Spring 2008</name>
+
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern College of Emek Yezreel"/>
+			<course>
+				<name>OOP</name>
+				<url>./2008S/OOP@yvc</url>
+			</course>
+			<course>
+				<name>Internet Applications Development</name>
+				<url>./2008S/jsp@yvc/</url>
+			</course>
+			<course>
+				<name>C#</name>
+				<url>./2008S/cs@yvc</url>
+			</course>
+		</location>
+
+
+	</season>
+
+	<season>
+		<name>Fall 2007</name>
+
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern College of Emek Yezreel"/>
+			<course>
+				<name>SQL servers: Programming and Administration </name>
+				<url>./2007F/sql@yvc/</url>
+			</course>
+			<course>
+				<name>Information Retrieval</name>
+				<url>./2007F/ir/</url>
+			</course>
+			<course>
+				<name>XML Based Languages and Technologies </name>
+				<url>./2007F/xml@yvc/course.xml</url>
+			</course>
+			<course>
+				<name>Final Project </name>
+				<url>./2007F/final@yvc/course.xml</url>
+			</course>
+
+		</location>
+
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Development of Internet Based System</name>
+				<url>./2007F/jsp@UoH/</url>
+			</course>
+		</location>
+
+	</season>
+
+	<season>
+		<name>Spring 2007</name>
+
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern College of Emek Yezreel"/>
+			<course>
+				<name>Internet Applications Development</name>
+				<url>./jsp@yvc/</url>
+			</course>
+			<course>
+				<name>Information Retrieval</name>
+				<url>./ir/</url>
+			</course>
+		</location>
+    -->
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Development of Internet Based System</name>
+				<url>./jsp@UoH/</url>
+			</course>
+		</location>
+
+	</season>
+	<season>
+		<name>Fall 2006</name>
+
+		<location>
+			<code img="gifs/CCNY.gif" name="CCNY, CUNY"/>
+			<course>
+				<name>Visiting researcher</name>
+				<url>http://www.ccny.cuny.edu/</url>
+			</course>
+		</location>
+	</season>
+	<season>
+		<name>Spring 2006</name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern College of Emek Yezreel"/>
+			<course>
+				<name>Object Oriented Programing with Java.</name>
+				<url>./Java@yvc/</url>
+			</course>
+			<course>
+				<name>Internet Applications Development</name>
+				<url>./asp@yvc/</url>
+			</course>
+			<course>
+				<name>Final Project</name>
+				<url>./final@yvc/</url>
+			</course>
+		</location>
+	</season>
+	<season>
+		<name>Fall 2005</name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern College of Emek Yezreel"/>
+			<course>
+				<name>Introduction to Computer Science</name>
+				<url>./introCS@yvc/</url>
+			</course>
+			<course>
+				<name>Compilers Theory </name>
+				<url>./compilers@yvc/</url>
+			</course>
+			<course>
+				<name>C#.NET </name>
+				<url>./cs@yvc/</url>
+			</course>
+			<course>
+				<name>Final Project</name>
+				<url>./final@yvc/</url>
+			</course>
+
+		</location>
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Development of Internet Based System</name>
+				<url>./asp@hu/</url>
+			</course>
+		</location>
+
+	</season>
+
+	<season>
+		<name>Summer 2005</name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern College of Emek Yezreel"/>
+			<course>
+				<name>XML Based Languages and Technologies </name>
+				<url>./xml@yvc/</url>
+			</course>
+
+		</location>
+	</season>
+	<season>
+		<name>Spring 2005</name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Emek Yezreel College"/>
+			<course>
+				<name>Final Project</name>
+				<url>./final@yvc/</url>
+			</course>
+
+		</location>
+	</season>
+	<season>
+		<name>Fall 2004</name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Emek Yezreel College"/>
+			<course>
+				<name>Compilers Theory </name>
+				<url>./compilers@yvc/</url>
+			</course>
+
+			<course>
+				<name>XML Based Languages and Technologies </name>
+				<url>./xml@yvc/past/course.xml</url>
+			</course>
+			<course>
+				<name>Java Programming (J2EE)</name>
+				<url>./j2ee@yvc/</url>
+			</course>
+			<course>
+				<name>Introduction to Internet Technologies.</name>
+				<url>./itech@yvc/</url>
+			</course>
+			<course>
+				<name>Final Project</name>
+				<url>./final@yvc/</url>
+			</course>
+
+		</location>
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Software Design and Programming</name>
+				<url>./software@hu/</url>
+			</course>
+		</location>
+	</season>
+
+
+	<season>
+		<name>Summer 2004</name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Emek Yezreel College"/>
+			<course>
+				<name>C# applications development  </name>
+				<url>./cs@yvc/</url>
+			</course>
+
+		</location>
+	</season>
+	<season>
+		<name>Spring 2004</name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Emek Yezreel College"/>
+			<course>
+				<name>Compilers Theory </name>
+				<url>./compilers@yvc/</url>
+			</course>
+			<course>
+				<name>Object Oriented Programing with Java.</name>
+				<url>./Java@yvc/</url>
+			</course>
+			<course>
+				<name>XML Based Languages and Technologies </name>
+				<url>./xml@yvc/past/</url>
+			</course>
+			<course>
+				<name>Java Programming (J2EE)</name>
+				<url>./j2ee@yvc/</url>
+			</course>
+		</location>
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Compilers Structure.</name>
+				<url>./compilers@hu/Spring2004/</url>
+			</course>
+
+		</location>
+	</season>
+	<season>
+		<name>Fall 2003</name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Emek Yezreel College"/>
+			<course>
+				<name>Introduction to Internet Technologies.</name>
+				<url>./itech@yvc/</url>
+			</course>
+			<course>
+				<name>Seminar "Internet Technologies".</name>
+				<url>./seminar@yvc/Fall2003/seminar.xml</url>
+			</course>
+		</location>
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Software Design and Programming</name>
+				<url>./software@hu/</url>
+			</course>
+			<course>
+				<name>Internet Technologies. </name>
+				<url>./itech@hu</url>
+			</course>
+			<course>
+				<name>Seminar "Internet Technologies".</name>
+				<url>./seminar@hu/Fall2003/seminar.xml</url>
+			</course>
+		</location>
+	</season>
+	<season>
+		<name>Spring 2003</name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Emek Yezreel College"/>
+			<course>
+				<name>Compilers Theory </name>
+				<url>./compilers@yvc/</url>
+			</course>
+			<course>
+				<name>Object Oriented Programing with Java.</name>
+				<url>./Java@yvc/</url>
+			</course>
+			<course>
+				<name>Seminar "Internet Technologies".</name>
+				<url>./seminar@yvc/Spring2003/seminar.xml</url>
+			</course>
+		</location>
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Compilers Structure.</name>
+				<url>./compilers@hu/Spring2003/</url>
+			</course>
+			<course>
+				<name>Seminar "Internet Technologies".</name>
+				<url>./seminar@hu/Spring2003/seminar.xml</url>
+			</course>
+		</location>
+	</season>
+	<season>
+		<name>Fall 2002</name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Emek Yezreel College"/>
+			<course>
+				<name>Introduction to Internet Technologies.</name>
+				<url>./itech@yvc/</url>
+			</course>
+			<course>
+				<name>XML Based Languages and Technologies </name>
+				<url>./xml@yvc/past/</url>
+			</course>
+			<course>
+				<name>Java Programming (J2EE)</name>
+				<url>./j2ee@yvc/</url>
+			</course>
+		</location>
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Internet Technologies. </name>
+				<url>./itech@hu</url>
+			</course>
+			<course>
+				<name>Seminar "Internet Technologies".</name>
+				<url>./seminar@hu/Fall2002/seminar.xml</url>
+			</course>
+		</location>
+	</season>
+	<season>
+		<name>Spring 2002</name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Emek Yezreel College"/>
+			<course>
+				<name>Object Oriented Programing with Java.</name>
+				<url>./Java@yvc/</url>
+			</course>
+		</location>
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Compilers Structure.</name>
+				<url>./compilers@hu/Spring2002/</url>
+			</course>
+			<course>
+				<name>Seminar "Internet Technologies".</name>
+				<url>./seminar@hu/Spring2002/seminar.xml</url>
+			</course>
+		</location>
+	</season>
+	<season>
+		<name>Fall 2001</name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Emek Yezreel College"/>
+			<course>
+				<name>Introduction to Internet Technologies.</name>
+				<url>./itech@yvc/</url>
+			</course>
+			<course>
+				<name>Compilers Structure.</name>
+				<url>./compilers@yvc/Fall2000/</url>
+			</course>
+			<course>
+				<name>Seminar "Internet Technologies".</name>
+				<url>./seminar@yvc/Fall2001/seminar.xml</url>
+			</course>
+		</location>
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Internet Technologies. </name>
+				<url>./itech@hu</url>
+			</course>
+			<course>
+				<name>Seminar "Internet Technologies".</name>
+				<url>./seminar@hu/Fall2001/seminar.xml</url>
+			</course>
+		</location>
+	</season>
+	<season>
+		<name> Spring 2001 </name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Emek Yezreel College"/>
+			<course>
+				<name>Object Oriented Programing with Java.</name>
+				<url>./Java@yvc/</url>
+			</course>
+			<course>
+				<name>Introduction to Internet Technologies.</name>
+				<url>./itech@yvc/</url>
+			</course>
+		</location>
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Internet Technologies. </name>
+				<url>./itech@hu</url>
+			</course>
+			<course>
+				<name>Seminar "Internet Technologies".</name>
+				<url>./seminar@hu/</url>
+			</course>
+		</location>
+	</season>
+	<season>
+		<name> Fall 2000 </name>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Emek Yezreel College"/>
+			<course>
+				<name>Introduction to Internet Technologies.</name>
+				<url>./itech@yvc/Fall2000/</url>
+			</course>
+			<course>
+				<name>Compilers Structure.</name>
+				<url>./compilers@yvc/Fall2000/</url>
+			</course>
+			<course>
+				<name>Seminar "Internet Technologies".</name>
+				<url>./seminar@yvc/Fall2000/</url>
+			</course>
+		</location>
+		<location>
+			<code img="gifs/uni.gif" name="University of Haifa"/>
+			<course>
+				<name>Compilers Structure.</name>
+				<url>./compilers@hu/Fall2000/</url>
+			</course>
+			<course>
+				<name>Seminar "Internet Technologies".</name>
+				<url>./seminar@hu/Fall2000</url>
+			</course>
+		</location>
+	</season>
+</coursesList>
