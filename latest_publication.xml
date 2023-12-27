@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="latest_publication.xsl"?>
+<!--this xml file contain presentation list but within xsl file is linked to publication.xml to show the latest publication-->
+<list>
+<publications>
+  <!-- publications are listed in according to items from the document publications.xml//Pub_ID/@val as refId -->
+   <Item refId='12'/>
+   <Item refId='11'/>
+   <Item refId='10'/>
+   <Item refId='13'/>
+   <Item refId='9'/>
+   <Item refId='8'/>
+   <Item refId='7'/>
+   <Item refId='6'/>
+   <Item refId='5'/>
+   <Item refId='4'/>
+   <Item refId='3'/>
+   <Item refId='2'/>
+   <Item refId='1'/>
+</publications>
+
+
+<presentations>
+<!-- only presentation without publication are listed hear  -->
+
+
+
+
+<Item>
+ 			<ID latest="yes"/>
+			<Author>Kanovsky Igor</Author>
+			<Title> Statistical Properties of the Web Graph and their Simulation</Title>
+			<Location> Haifa Winter Workshop on Computer Science and Statistics (CsStat '03), Haifa, Israel</Location>
+			<Year>2003</Year>
+			<Date>December</Date>
+			<!--
+			<Source>
+			     <item><comment>PDF</comment><link>./stuff/EISTA_E360MR.pdf</link></item>
+			</Source>
+           -->
+ </Item>
+
+
+<Item>
+ 			<ID latest="yes"/>
+			<Author>Kanovsky Igor</Author>
+			<Title> Perception of the Value of Information from Link Analysis</Title>
+			<Location> The Value of Information in Networked  Contexts. International Conference. Haifa, Israel</Location>
+			<Year>2004</Year>
+			<Date>February</Date>
+			<!--
+			<Source>
+			     <item><comment>PDF</comment><link>./stuff/EISTA_E360MR.pdf</link></item>
+			</Source>
+           -->
+ </Item>
+
+
+<Item>
+ 			<ID latest="yes"/>
+			<Author>Kanovsky Igor</Author><Author> Pergo Lilach</Author>
+			<Title> Clusters Recognition from Large Small World Graph</Title>
+			<Location> Fourth Haifa Workshop on Interdisciplinary Applications of Graph Theory, Combinatorics and Algorithms. Haifa, Israel</Location>
+			<Year>2004</Year>
+			<Date>May</Date>
+			<!--
+			<Source>
+			     <item><comment>PDF</comment><link>./stuff/EISTA_E360MR.pdf</link></item>
+			</Source>
+           -->
+ </Item>
+<Item>
+ 			<ID latest="yes"/>
+			<Author>Kanovsky Igor</Author><Author> Pergo Lilach</Author>
+			<Title> Small World Graph Clustering</Title>
+			<Location> Science of Complex Networks: from Biology to the Internet and WWW (CNET 2004), International Conference, Aveiro, Portugal</Location>
+			<Year>2004</Year>
+			<Date>September</Date>
+			<!--
+			<Source>
+			     <item><comment>PDF</comment><link>./stuff/EISTA_E360MR.pdf</link></item>
+			</Source>
+           -->
+ </Item>
+ <Item>
+ 			<ID latest="yes"/>
+			<Author>Kanovsky Igor</Author>
+			<Title> Stochastic Processes for Scale-Free Digraph Generation</Title>
+			<Location> Complex Networks, International Conference, Bar-Ilan University, Israel</Location>
+			<Year>2005</Year>
+			<Date>April</Date>
+			<!--
+			<Source>
+			     <item><comment>PDF</comment><link>./stuff/EISTA_E360MR.pdf</link></item>
+			</Source>
+           -->
+ </Item>
+<Item>
+ 			<ID latest="yes"/>
+			<Author>Kanovsky Igor</Author>
+			<Author> Pergo Lilach</Author>
+			<Title> Small World Graph Clustering</Title>
+			<Location> Workshop on Structure and Function of Complex Networks, Trieste, Italy</Location>
+			<Year>2005</Year>
+			<Date>May</Date>
+			<!--
+			<Source>
+			     <item><comment>PDF</comment><link>./stuff/EISTA_E360MR.pdf</link></item>
+			</Source>
+           -->
+ </Item>
+ <Item>
+ 			<ID latest="yes"/>
+			<Author>Kanovsky Igor</Author>
+			<Author> Pergo Lilach</Author>
+			<Title> Small World Graph Clustering</Title>
+			<Location> 3rd World Conference on Computational Statistics and Data Analysis (CSDA2005), Limassol, Cyprus </Location>
+			<Year>2005</Year>
+			<Date>October</Date>
+
+			<Source>
+			     <item><comment>(Conference Site)</comment><link>http://www.csdassn.org/europe/csda2005/</link></item>
+			     <item><comment> Presentation (PDF).</comment><link>./stuff/ik_lp_CSDA2005.pdf</link></item>
+			</Source>
+
+ </Item>
+ <Item>
+ 			<ID latest="yes"/>
+			<Author>Kanovsky Igor</Author>
+
+			<Title> Complex Networks Clustering and Edges Correlation</Title>
+			<Location>International Conference on Network Science (NetSci2006), Bloomington, Indiana, USA
+			</Location>
+			<Year>2006</Year>
+			<Date>May</Date>
+
+			<Source>
+			     <item><comment>(Conference Site)</comment><link>http://vw.indiana.edu/netsci06/index.html</link></item>
+			     <item><comment> Extended summary (PDF).</comment><link>./stuff/ik_netsci2006.pdf</link></item>
+			</Source>
+</Item>
+<Item>
+			<ID latest="yes"/>
+			<Author>Kanovsky Igor</Author>
+			<Title> Web graph clustering based on link correlations</Title>
+			<Location> Fourth Workshop on Algorithms and Models for the Web-Graph (WAW2006), Banff, Canada</Location>
+			<Year>2006</Year>
+			<Date>December</Date>
+
+			<Source>
+			     <item><comment>(Conference Site)</comment><link>http://www.mathstat.dal.ca/~waw2006/</link></item>
+			</Source>
+
+ </Item>
+ <Item>
+			<ID latest="yes"/>
+			<Author>Kanovsky Igor</Author>
+			<Title>Complex Networks Clustering by Link Weighting</Title>
+			<Location> The Israel Association for Information Systems Conference (ILAIS 2007)</Location>
+			<Year>2007</Year>
+			<Date>May</Date>
+
+			<Source>
+			     <item><comment>(Conference Site)</comment><link>http://ilais.openu.ac.il/wp/?page_id=80</link></item>
+			</Source>
+
+ </Item>
+ <Item>
+			<ID latest="yes"/>
+			<Author>Kanovsky Igor</Author>
+			<Title>Small World Properties in Social Networks: simulation and utilizing</Title>
+			<Location> ESF-COST High-Level Research Conference
+						"Future Internet and Society: A Complex Systems Perspective",
+						Acquafredda di Maratea, Italy
+			</Location>
+			<Year>2010</Year>
+			<Date>2-7 October</Date>
+
+			<Source>
+			     <item><comment>(Conference Site)</comment>
+			     <link>http://www.esf.org/index.php?id=6633</link></item>
+			</Source>
+
+ </Item>
+ <Item>
+			<ID latest="yes"/>
+			<Author>Kanovsky Igor</Author>
+			<Author>Yaari Omer</Author>
+			<Title>Model of Opinion Spreading in Social Networks</Title>
+			<Location> NetSci 2011. The International School and Conference on Network Science, Budapest
+			</Location>
+			<Year>2011</Year>
+			<Date>June 6-10</Date>
+
+			<Source>
+			     <item><comment>(Conference Site)</comment>
+			     <link>http://netsci2011.net/</link></item>
+			     <item><comment> Presentation (pdf) </comment>
+			     <link>stuff/ik-oy-NetSci2010.pdf</link></item>
+			</Source>
+
+ </Item>
+ <Item>
+			<ID latest="yes"/>
+			<Author>Kanovsky Igor</Author>
+			<Author>Yaari Omer</Author>
+			<Title>Model of Opinion Spreading in Social Networks</Title>
+			<Location> ILAIS 2011. The fifth Israel Association for Information Systems (ILAIS) conference. Open University. Israel
+			</Location>
+			<Year>2011</Year>
+			<Date>June 29</Date>
+
+			<Source>
+			     <item><comment>(Conference Site)</comment>
+			     <link>http://ilais.openu.ac.il/wp/?page_id=142</link></item>
+			     <item><comment> Proceedings of ILAIS 2011  (pdf) See pp. 46-48. </comment>
+			     <link>http://ilais.openu.ac.il/wp/wp-content/uploads/2011/06/Proceedings-of-ILAIS-2011.pdf</link></item>
+			</Source>
+
+ </Item>
+ <Item>
+			<ID latest="yes"/>
+			<Author>Kanovsky Igor</Author>
+			<Author>Yaari Omer</Author>
+			<Title>Opinion Spreading in Social Networks: 0-1-2 Model</Title>
+			<Location> Game Theory and Society.Models of Social Interaction in Sociological Research. ETH Zürich (Switzerland).
+			</Location>
+			<Year>2011</Year>
+			<Date>July 27-30</Date>
+
+			<Source>
+			     <item><comment>(Conference Site)</comment>
+			     <link>http://www.socio.ethz.ch/workshop2011</link></item>
+			     <item><comment> Abstracts(pdf) See pp. 30-31. </comment>
+			     <link>http://www.socio.ethz.ch/workshop2011/program/gamecon_booklet.pdf</link></item>
+			</Source>
+
+ </Item>
+ <Item>
+			<ID latest="yes"/>
+			<Author>Kanovsky Igor</Author>
+			<Author>Yaari Omer</Author>
+			<Title>Modeling Influencers in Social Network</Title>
+			<Location> 2013 International Conference Social Media and Society. Halifax, Canada.
+			</Location>
+			<Year>2013</Year>
+			<Date>September 14–15</Date>
+
+			<Source>
+			     <item><comment>(Conference Site)</comment>
+			     <link>http://socialmediaandsociety.com/</link></item>
+			</Source>
+
+ </Item>
+ <Item>
+            <ID latest="yes"/>
+            <Author>Kanovsky Igor</Author>
+            <Author>Yaari Omer</Author>
+            <Title>Opinion Spreading in Social Networks</Title>
+			<Location>54th International IACIS Conference.
+			Analytics - Sustaining Effective Decision Making.
+            Las Vegas, NV, USA. </Location>
+			<Year>2014</Year>
+			<Date>October 1-4</Date>
+			<Source>
+			     <item><comment>(Conference Site)</comment>
+			     <link>http://www.iacis.org/conference/</link></item>
+			</Source>
+
+</Item>
+ <Item>
+            <ID latest="yes"/>
+            <Author>Kanovsky Igor</Author>
+
+            <Title>Ability to be an Influencer in Social Network</Title>
+			<Location>Israeli Networking Day 2015. Hosted by IBM Research. Haifa. </Location>
+			<Year>2015</Year>
+			<Date>June 3</Date>
+			<Source>
+			     <item><comment>(Conference Site)</comment>
+			     <link>https://www.research.ibm.com/haifa/Workshops/networking2015/index.shtml</link></item>
+			</Source>
+
+</Item>
+<Item>
+            <ID latest="yes"/>
+            <Author>Kanovsky Igor</Author>
+
+            <Title>Ability to be an Influencer in Social Network</Title>
+			<Location>XXXV Sunbelt Conference of the International Network for Social Network Analysis (INSNA). Brighton, UK. </Location>
+			<Year>2015</Year>
+			<Date>June 23–28</Date>
+			<Source>
+			     <item><comment>(Conference Site)</comment>
+			     <link>http://insna.org/sunbelt2015/</link></item>
+			</Source>
+
+</Item>
+<Item>
+            <ID latest="yes"/>
+            <Author>Kanovsky Igor</Author>
+
+            <Title>Opinion Leader in Social Network as a Complex Network Structure Property </Title>
+     <Location>2016 Conference on Complex Systems, Amsterdam, The Netherlands</Location>
+     <Year>2016</Year>
+     <Date>September 19-22</Date>
+     <Source>
+          <item><comment>(Conference Site)</comment>
+          <link>http://www.ccs2016.org/</link></item>
+     </Source>
+
+</Item>
+<Item>
+            <ID latest="yes"/>
+            <Author>Kanovsky Igor, Agnis Stibe, Sergey Ostapov</Author>
+
+            <Title>Opinion Leader in Social Network as Network Structure Property</Title>
+			<Location>International School and Conference on Network Science, NetSciX2017, Tel-Aviv, Israel</Location>
+			<Year>2017</Year>
+			<Date>January 15-18</Date>
+			<Source>
+			     <item><comment>(Conference Site)</comment>
+			     <link>http://www.netscix2017.com/</link></item>
+			</Source>
+
+</Item>
+<Item>
+            <ID latest="yes"/>
+            <Author>Kanovsky Igor</Author>
+
+            <Title>Professional Social Network as a Media for Innovation Spreading</Title>
+			<Location>Kreyon Conference2017.UNFOLDING THE DYNAMICS OF CREATIVITY AND INNOVATION. Rome, Italy.</Location>
+			<Year>2017</Year>
+			<Date>September 6-9</Date>
+			<Source>
+			     <item><comment>(Conference Site)</comment>
+			     <link>http://kreyon.net/kreyonConference/</link></item>
+			</Source>
+
+</Item>
+<Item>
+ 			<ID latest="yes"/>
+			<Author>Kanovsky Igor</Author>
+			<Title>Diffusion in Social Networks: Between Contagion and Complex Contagion</Title>
+			<Location>International Symposium Contagion and Networks (contnet2018), Paris, France
+			</Location>
+			<Year>2018</Year>
+			<Date>June 11</Date>
+			
+			<Source>
+			     <item><comment>(Conference Site)</comment>
+			     <link>https://networkscontagion.github.io/</link></item>
+			</Source>
+           
+ </Item>
+ 
+ <Item>
+ 			<ID latest="yes"/>
+			<Author>Kanovsky Igor</Author>
+			<Title>Native Communities Detection in Social Networks </Title>
+			<Location> NetSci 2018, International Conference on Network Science, Paris, France</Location>
+			<Year>2018</Year>
+			<Date>June 11-15</Date>
+			<Source>
+			     <item><comment>(Conference Site)</comment>
+			     <link>https://www.netsci2018.com/</link></item>
+			</Source>
+ </Item>
+ <Item>
+ 			<ID latest="yes"/>
+			<Author>Kanovsky Igor</Author>
+			<Title>Native Communities Detection in Social Networks </Title>
+			<Location>Conference of Complex Systems 2019, Syngapore </Location>
+			<Year>2019</Year>
+			<Date>September 30 - October 4 </Date>
+			<Source>
+			     <item><comment>(Conference Site)</comment>
+			     <link>https://cssociety.org/event/0d58fdee-5f1c-4a45-b798-a51ea3a3ceb8</link></item>
+			</Source>
+ </Item>
+ 
+ </presentations>
+ </list>
