@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="links_stuff.xsl"?>
+<List>
+    <Area>
+    	<Type>Upcoming Events</Type>
+		<!-- -->
+      <Item>
+          <Name>NetSciX2024. International School and Conference on Network Science, Venice,
+		  Italy 
+          </Name>
+          <What> I have a talk. </What>
+          <Source>
+          <Descripton>Conference Site</Descripton>
+          <Link>https://netscix2024.netscisociety.org/</Link>
+          </Source>
+          
+          <Date>January 22-25, 2024</Date>
+        </Item>
+        
+    </Area>
+  <Area>
+    <Type>Past Events</Type>
+	<Item>
+          <Name>11th International Conference on Social Media and Society, Chicago, USA. 
+          </Name>
+          <What> I am a program committee member. </What>
+          <Source>
+          <Descripton>Conference Site</Descripton>
+          <Link>http://socialmediaandsociety.com/</Link>
+          </Source>
+          
+          <Date>July 22-24, 2020</Date>
+        </Item>
+<!-- -->		<Item>
+          <Name>127th International Conference on Science, Engineering and Technology (ICSET).
+		  Phuket, Thailand. 
+          </Name>
+          <What> I have a talk. </What>
+          <Source>
+          <Descripton>Conference Site</Descripton>
+          <Link>http://gsrd.co/Conference2019/9/Thailand/1/ICSET/</Link>
+          </Source>
+          
+          <Date>October 6-7, 2019</Date>
+    </Item>	
+	 <Item>
+          <Name> The Conference on Complex Systems (CCS 2019). Singapore.
+          </Name>
+          <What> I have a poster. </What>
+          <Source>
+          <Descripton>Conference Site</Descripton>
+          <Link>http://event.ntu.edu.sg/ccs2019/Pages/Home.aspx</Link>
+          </Source>
+          
+          <Date>September 30- October 4, 2019</Date>
+        </Item>
+	
+	 <Item>
+          <Name>2019 International Conference Social media and Society. Toronto, Canada 
+          </Name>
+          <What> I am a program committee member. </What>
+          <Source>
+          <Descripton>Conference Site</Descripton>
+          <Link>http://socialmediaandsociety.com/</Link>
+          </Source>
+          
+          <Date>July 19-21, 2019</Date>
+        </Item>
+	<Item>
+          <Name>2018 International Conference Social media and Society. Copenhagen, Denmark.
+          </Name>
+          <What> I am a program committee member. </What>
+          <Source>
+          <Descripton>Conference Site</Descripton>
+          <Link>http://socialmediaandsociety.com/</Link>
+          </Source>
+          <!--
+          <Source>
+          <Descripton>Group Photo</Descripton>
+          <Link>http://www.iccs-meeting.org/iccs2010/photographs/image001.htm</Link>
+          </Source>
+           -->
+          <Date>July 18-20, 2018 </Date>
+        </Item>
+		<Item>
+          <Name>ILAIS 2018. The Israel Association for Information Systems
+          (ILAIS) conference.  Sami Shamoon College of Engineering, Ashdod.
+          </Name>
+          <What> I am a member of the program committee.</What>
+          <Source>
+          <Descripton>Conference Information</Descripton>
+          <Link>http://ilais.openu.ac.il/wp/</Link>
+          </Source>
+
+
+          <Date>June 18 , 2018</Date>
+        </Item>
+        <Item>
+            <Name>
+              NetSci 2018, International Conference on Network Science, Paris, France.
+            </Name>
+            <What> I have a poster presentation.</What>
+            <Source>
+            <Descripton>Conference Site</Descripton>
+            <Link>https://www.netsci2018.com/</Link>
+            </Source>
+            <!--
+            <Source>
+            <Descripton>Group Photo</Descripton>
+            <Link>http://www.iccs-meeting.org/iccs2010/photographs/image001.htm</Link>
+            </Source>
+             -->
+            <Date>June 11-15, 2018 </Date>
+          </Item>
+          <Item>
+              <Name>International Symposium Contagion and Networks (contnet2018), Paris, France.
+              </Name>
+              <What>I have a lightning talk. </What>
+              <Source>
+              <Descripton>Conference Site</Descripton>
+              <Link>https://networkscontagion.github.io/</Link>
+              </Source>
+              <!--
+              <Source>
+              <Descripton>Group Photo</Descripton>
+              <Link>http://www.iccs-meeting.org/iccs2010/photographs/image001.htm</Link>
+              </Source>
+               -->
+              <Date>June 11, 2018</Date>
+            </Item>
+    <Item>
+        <Name>Visit to Chernivtsi National University. Ukraine.
+        </Name>
+        <What> I am an invited lecturer. I have a set of meetings with research collaborators. </What>
+        <Source>
+        <Descripton>The University Site</Descripton>
+        <Link>http://www.chnu.cv.ua/index.php?page=/en/general</Link>
+        </Source>
+        <!--
+        <Source>
+        <Descripton>Group Photo</Descripton>
+        <Link>http://www.iccs-meeting.org/iccs2010/photographs/image001.htm</Link>
+        </Source>
+         -->
+        <Date>September 27 - October 5, 2017 </Date>
+      </Item>
+    <Item>
+        <Name>Kreyon Conference2017.UNFOLDING THE DYNAMICS OF CREATIVITY AND INNOVATION. Rome, Italy.
+        </Name>
+        <What> I have a 10 minutes talk and a poster. </What>
+        <Source>
+        <Descripton>Conference Site</Descripton>
+        <Link>http://kreyon.net/kreyonConference/</Link>
+        </Source>
+        <!--
+        <Source>
+        <Descripton>Group Photo</Descripton>
+        <Link>http://www.iccs-meeting.org/iccs2010/photographs/image001.htm</Link>
+        </Source>
+         -->
+        <Date>September 6-9, 2017 </Date>
+      </Item>
+    <Item>
+        <Name>2017 International Conference Social media and Society. Toronto, Canada.
+        </Name>
+        <What> I am a program committee member. </What>
+        <Source>
+        <Descripton>Conference Site</Descripton>
+        <Link>http://socialmediaandsociety.com/</Link>
+        </Source>
+        <!--
+        <Source>
+        <Descripton>Group Photo</Descripton>
+        <Link>http://www.iccs-meeting.org/iccs2010/photographs/image001.htm</Link>
+        </Source>
+         -->
+        <Date>July 28-30, 2017 </Date>
+      </Item>
+    <Item>
+  			<Name>International School and Conference on Network Science, NetSciX2017, Tel-Aviv, Israel</Name>
+  			<What>I am a program committee member. We have a poster.</What>
+  			<Source>
+  			<Descripton>Conference Site</Descripton>
+  			<Link>http://www.netscix2017.com/</Link>
+  			</Source>
+
+  			<Date>January 15-18, 2017</Date>
+  		</Item>
+  <Item>
+			<Name>2016 Conference on Complex Systems,
+Amsterdam, The Netherlands</Name>
+			<What>I have a talk (20 minutes). </What>
+			<Source>
+			<Descripton>Conference Site</Descripton>
+			<Link>http://www.ccs2016.org/</Link>
+			</Source>
+
+			<Date>September 19-22, 2016</Date>
+		</Item>
+  <Item>
+			<Name>2016 International Conference Social media and Society. London, UK.
+			</Name>
+			<What> I am a program committee member. </What>
+			<Source>
+			<Descripton>Conference Site</Descripton>
+			<Link>http://socialmediaandsociety.com/</Link>
+			</Source>
+			<!--
+			<Source>
+			<Descripton>Group Photo</Descripton>
+			<Link>http://www.iccs-meeting.org/iccs2010/photographs/image001.htm</Link>
+			</Source>
+			 -->
+			<Date>July 11-13, 2016 </Date>
+		</Item>
+		<Item>
+			<Name>ILAIS 2016. The Israel Association for Information Systems
+			(ILAIS) conference.  Ben-Gurion University of the Negev.
+			</Name>
+			<What> I am a member of the program committee.</What>
+			<Source>
+			<Descripton>Conference Information</Descripton>
+			<Link>http://ilais.openu.ac.il/wp/</Link>
+			</Source>
+
+
+			<Date>July 4 , 2016</Date>
+		</Item>
+
+
+		<Item>
+			<Name>2015 International Conference Social media and Society. Toronto, Canada.
+			</Name>
+			<What> I am a program committee member. </What>
+			<Source>
+			<Descripton>Conference Site</Descripton>
+			<Link>http://socialmediaandsociety.com/</Link>
+			</Source>
+			<!--
+			<Source>
+			<Descripton>Group Photo</Descripton>
+			<Link>http://www.iccs-meeting.org/iccs2010/photographs/image001.htm</Link>
+			</Source>
+			 -->
+			<Date>July 27–29, 2015 </Date>
+		</Item>
+    	 <Item>
+			<Name>ILAIS 2015. The Israel Association for Information Systems
+			(ILAIS) conference.  Ono Academic College.
+			</Name>
+			<What> I am a member of the program committee.</What>
+			<Source>
+			<Descripton>Conference Information</Descripton>
+			<Link>http://ilais.openu.ac.il/wp/</Link>
+			</Source>
+
+
+			<Date>June 29 , 2015</Date>
+		</Item>
+    	<Item>
+			<Name>XXXV Sunbelt Conference of the International Network for Social Network Analysis (INSNA). London.
+
+			</Name>
+			<What> I have a talk. </What>
+			<Source>
+			<Descripton>Conference Site</Descripton>
+			<Link>http://insna.org/sunbelt2015/</Link>
+			</Source>
+
+			<Date>June 23–28, 2015</Date>
+		</Item>
+
+		<Item>
+			<Name>Israeli Networking Day 2015. Hosted by IBM Research - Haifa.
+			</Name>
+			<What>I have a poster presentation.</What>
+			<Source>
+			<Descripton>Conference Site</Descripton>
+			<Link>https://www.research.ibm.com/haifa/Workshops/networking2015/index.shtml</Link>
+			</Source>
+
+			<Date>June 3, 2015 </Date>
+		</Item>
+		<Item>
+			<Name>8th ACM Conference on Recommender Systems. Foster City, Silicon Valley, CA, USA.
+			</Name>
+			<What> I participate in discussions. Includes panel. </What>
+			<Source>
+			<Descripton>Conference Site</Descripton>
+			<Link>http://recsys.acm.org/recsys14/</Link>
+			</Source>
+
+			<Date>October 6-10, 2014 </Date>
+		</Item>
+		<Item>
+			<Name>54th International IACIS Conference.
+			Analytics - Sustaining Effective Decision Making.
+            Las Vegas, NV, USA.
+			</Name>
+			<What> I have a talk. </What>
+			<Source>
+			<Descripton>Conference Site</Descripton>
+			<Link>http://www.iacis.org/conference/</Link>
+			</Source>
+			<!--
+			<Source>
+			<Descripton>Group Photo</Descripton>
+			<Link>http://www.iccs-meeting.org/iccs2010/photographs/image001.htm</Link>
+			</Source>
+			 -->
+			<Date>October 1-4, 2014 </Date>
+		</Item>
+		<Item>
+			<Name>2014 International Conference Social media and Society. Toronto, Canada.
+			</Name>
+			<What> I am a program committee member. </What>
+			<Source>
+			<Descripton>Conference Site</Descripton>
+			<Link>http://socialmediaandsociety.com/</Link>
+			</Source>
+			<!--
+			<Source>
+			<Descripton>Group Photo</Descripton>
+			<Link>http://www.iccs-meeting.org/iccs2010/photographs/image001.htm</Link>
+			</Source>
+			 -->
+			<Date>September 27–28, 2014 </Date>
+		</Item>
+		<Item>
+			<Name>2013 International Conference Social media and Society. Halifax, Canada.
+			</Name>
+			<What> I have a poster presentation.</What>
+			<Source>
+			<Descripton>Conference Site</Descripton>
+			<Link>http://socialmediaandsociety.com/</Link>
+			</Source>
+			<!--
+			<Source>
+			<Descripton>Group Photo</Descripton>
+			<Link>http://www.iccs-meeting.org/iccs2010/photographs/image001.htm</Link>
+			</Source>
+			 -->
+			<Date>September 14–15, 2013 </Date>
+		</Item>
+		<Item>
+			<Name>2013 ASE/IEEE International Conference Social Computing. Washington DC, USA.
+			</Name>
+			<What> I have a poster presentation.</What>
+			<Source>
+			<Descripton>Conference Site</Descripton>
+			<Link>http://www.asesite.org/conferences/socialcom/2013/</Link>
+			</Source>
+			<!--
+			<Source>
+			<Descripton>Group Photo</Descripton>
+			<Link>http://www.iccs-meeting.org/iccs2010/photographs/image001.htm</Link>
+			</Source>
+			 -->
+			<Date>September 8–11, 2013 </Date>
+		</Item>
+		<Item>
+			<Name>ILAIS 2013. The seventh Israel Association for Information Systems
+			(ILAIS) conference. The Ruppin Academic Center, Emek Hefer. Israel.
+			</Name>
+			<What> I am a member of the program committee.</What>
+			<Source>
+			<Descripton>Conference Information</Descripton>
+			<Link>http://ilais.openu.ac.il/wp/</Link>
+			</Source>
+
+
+			<Date>July 1 , 2013</Date>
+		</Item>
+		<Item>
+			<Name>International Conference WWW/INTERNET 2012. Madrid, Spain.
+			</Name>
+			<What> I have a talk.</What>
+			<Source>
+			<Descripton>Conference Site</Descripton>
+			<Link>http://www.internet-conf.org/</Link>
+			</Source>
+			<!--
+			<Source>
+			<Descripton>Group Photo</Descripton>
+			<Link>http://www.iccs-meeting.org/iccs2010/photographs/image001.htm</Link>
+			</Source>
+			 -->
+			<Date>October 18–21, 2012 </Date>
+		</Item>
+
+		<Item>
+			<Name>ILAIS 2012. The sixth Israel Association for Information Systems
+			(ILAIS) conference. University of Haifa. Israel.
+			</Name>
+			<What> I am a member of the program committee.</What>
+			<Source>
+			<Descripton>Conference Information</Descripton>
+			<Link>http://ilais.openu.ac.il/wp/</Link>
+			</Source>
+
+
+			<Date>July 2 , 2012</Date>
+		</Item>
+		<Item>
+			<Name>Game Theory and Society. Models of Social Interaction in Sociological Research.
+ETH Zürich (Switzerland).
+			</Name>
+			<What> I have a poster presentation.</What>
+			<Source>
+			<Descripton>Conference Site</Descripton>
+			<Link>http://www.socio.ethz.ch/workshop2011</Link>
+			</Source>
+			<!--
+			<Source>
+			<Descripton>Group Photo</Descripton>
+			<Link>http://www.iccs-meeting.org/iccs2010/photographs/image001.htm</Link>
+			</Source>
+			 -->
+			<Date>July 27-30, 2011</Date>
+		</Item>
+    	<Item>
+			<Name>ILAIS 2011. The fifth Israel Association for Information Systems
+			(ILAIS) conference. Open University. Israel.
+			</Name>
+			<What> I have a talk.</What>
+			<Source>
+			<Descripton>Conference Information</Descripton>
+			<Link>http://ilais.openu.ac.il/wp/?page_id=142</Link>
+			</Source>
+			<!--
+			<Source>
+			<Descripton>Group Photo</Descripton>
+			<Link>http://www.iccs-meeting.org/iccs2010/photographs/image001.htm</Link>
+			</Source>
+			 -->
+			<Date>June 29 , 2011</Date>
+		</Item>
+    	<Item>
+			<Name>NetSci 2011. The International School and Conference on Network Science, Budapest, </Name>
+			<What>Main conference of the Network Science community (leader Albert László Barabási). I have a 20 min talk.</What>
+			<Source>
+			<Descripton>Conference Site</Descripton>
+			<Link>http://netsci2011.net/</Link>
+			</Source>
+			<!--
+			<Source>
+			<Descripton>Group Photo</Descripton>
+			<Link>http://www.iccs-meeting.org/iccs2010/photographs/image001.htm</Link>
+			</Source>
+			 -->
+			<Date>June 6-10 , 2011</Date>
+		</Item>
+		<Item>
+			<Name>Future Internet and Society: A Complex Systems Perspective, Acquafredda di Maratea, Italy</Name>
+			<What>Very special closed conference for specialists in the complex networks organized by European Science Foundation. I have a poster presentation.</What>
+			<Source>
+			<Descripton>Conference Site</Descripton>
+			<Link>http://www.esf.org/index.php?id=6633</Link>
+			</Source>
+			<!--
+			<Source>
+			<Descripton>Group Photo</Descripton>
+			<Link>http://www.iccs-meeting.org/iccs2010/photographs/image001.htm</Link>
+			</Source>
+			 -->
+			<Date>October 2-7, 2010</Date>
+		</Item>
+		<Item>
+			<Name>The 5-th Mediterranean Conference on Information Systems, MCIS 2010, Tel-Aviv - Yaffo</Name>
+			<What>Member of the program committee, the conference Web site administrator, chair of one of the sessions. </What>
+			<Source>
+			<Descripton>Conference Site</Descripton>
+			<Link>https://www.mta.ac.il/mcis2010/</Link>
+			</Source>
+			<!--
+			<Source>
+			<Descripton>Group Photo</Descripton>
+			<Link>http://www.iccs-meeting.org/iccs2010/photographs/image001.htm</Link>
+			</Source>
+			 -->
+			<Date>September 12-14, 2010</Date>
+		</Item>
+		<Item>
+			<Name>International Conference on Computational Science, ICCS 2010, Amsterdam</Name>
+			<What>I have a talk (20 minutes), very interesting contacts and discussions. </What>
+			<Source>
+			<Descripton>Conference Site</Descripton>
+			<Link>http://www.iccs-meeting.org/</Link>
+			</Source>
+			<Source>
+			<Descripton>Group Photo</Descripton>
+			<Link>http://www.iccs-meeting.org/iccs2010/photographs/image001.htm</Link>
+			</Source>
+			<Date>May 31- June 2, 2010</Date>
+		</Item>
+	</Area>
+
+</List>

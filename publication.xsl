@@ -13,7 +13,7 @@
 					<table>
 						<tr>
 							<td>
-								<img src="gifs/drK.gif" border="0" alt=""/>
+								<img src="gifs/drk.gif" border="0" alt=""/>
 							</td>
 							<td>
 								<img src="gifs/publication.gif" alt=""/>
