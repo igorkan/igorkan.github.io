@@ -13,6 +13,10 @@
           <Descripton>Conference Site</Descripton>
           <Link>https://netscix2024.netscisociety.org/</Link>
           </Source>
+		  <Source>
+          <Descripton>Presentation</Descripton>
+          <Link>stuff/6A-Kanovsky.pdf</Link>
+          </Source>
           
           <Date>January 22-25, 2024</Date>
         </Item>
