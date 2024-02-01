@@ -4,7 +4,12 @@
     <Area>
     	<Type>Upcoming Events</Type>
 		<!-- -->
-      <Item>
+      
+        
+    </Area>
+  <Area>
+    <Type>Past Events</Type>
+	<Item>
           <Name>NetSciX2024. International School and Conference on Network Science, Venice,
 		  Italy 
           </Name>
@@ -20,10 +25,6 @@
           
           <Date>January 22-25, 2024</Date>
         </Item>
-        
-    </Area>
-  <Area>
-    <Type>Past Events</Type>
 	<Item>
           <Name>NLP and Networks. BIU Spotlight Event. Ramat-Gan, Israel. 
           </Name>

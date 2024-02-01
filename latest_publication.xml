@@ -24,7 +24,24 @@
 <!-- only presentation without publication are listed hear  -->
 
 
-
+<Item>
+ 			<ID latest="yes"/>
+			<Author>Kanovsky Igor, Deinega Dmitri, Levit Vadim </Author>
+			<Title> Overlapping Communities Detection by Commonality</Title>
+			<Location>NetSciX2024. International School and Conference on Network Science, 
+			Venice, Italy </Location>
+			<Year>2024</Year>
+			<Date>January 22-25</Date>
+			<Source>
+			     <item><comment>(Conference Site)</comment>
+				 <link>https://netscix2024.netscisociety.org/</link></item>
+			</Source>
+			<!--
+			<Source>
+			     <item><comment>PDF</comment><link>./stuff/EISTA_E360MR.pdf</link></item>
+			</Source>
+           -->
+ </Item>
 
 <Item>
  			<ID latest="yes"/>
