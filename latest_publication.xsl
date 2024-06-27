@@ -41,7 +41,7 @@
 					</table>
 				</div>
 				<h2>
-				Latest publications. <font size="+1">
+				Selected publications. <font size="+1">
 						<a href="publication.xml">For full list click here.</a>
 					</font>
 				</h2>
