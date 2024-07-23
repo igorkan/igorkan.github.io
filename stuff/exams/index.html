@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>List of Exams Results for Expose</title>
+    <style>
+      .cont {
+        display: grid;
+        place-items: center;
+      }
+      li {
+        font-size: 2rem;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="cont">
+      <h1>List of Exams Results for Expose</h1>
+      <ul id="l1"></ul>
+    </div>
+    <script>
+      //   const list = [
+      //     { desc: "test", file: "test.csv" },
+      //     { desc: "test1", file: "2CSV.csv" },
+      //   ];
+      fetch("index.json")
+        .then((val) => val.json())
+        .then((json) => showList(json.list));
+
+      function showList(list) {
+        const ul = document.getElementById("l1");
+        let str = "";
+        list.forEach((item, index) => {
+          str += `<li><a href="result.html?${index}">${item.desc} </a></li>`;
+        });
+        ul.innerHTML = str;
+      }
+    </script>
+  </body>
+</html>

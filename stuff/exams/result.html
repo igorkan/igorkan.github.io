@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Exam results 4 students</title>
+    <style>
+      #con1 {
+        display: grid;
+        place-items: center;
+      }
+      table {
+        text-align: center;
+        width: 40%;
+        font-size: 2rem;
+      }
+      .corr {
+        background-image: url("circled.gif") !important;
+        background-repeat: no-repeat;
+        background-position: center;
+      }
+      .err {
+        background-image: url("nf.gif") !important;
+        background-repeat: no-repeat;
+        background-position: center;
+      }
+      th {
+        padding-top: 2rem;
+      }
+      .extd{width:2.5rem; font-size: 2rem;}
+      .small{font-size: 1rem;}
+    </style>
+  </head>
+  <body>
+    <div id="con1">
+      <h1>Exam Results 4 Students</h1>
+      <table class=small>
+        <tr>
+          <td rowspan="3">Legend:</td>
+          
+              <tr>
+                <td class="err extd"><span>B</span></td><td >Your error</td>
+              </tr>
+              <tr>
+                <td class="corr extd"><span>A</span></td><td>Correct</td>
+              </tr>
+          </td>
+      </table>
+      <h2 id="h2">Moed</h2>
+      <table id="tbl1" border="1"></table>
+    </div>
+    <script>
+      const url = window.location.href;
+      const index=url.split("?").pop();
+      async function doWork(){
+           const exam=
+           await fetch("index.json")
+           .then(val=>val.json())
+           .then(result=>result.list[index]);
+           document.querySelector("#h2").innerHTML=exam.desc;
+           console.log(exam);
+           await fetch(exam.file)
+            .then((v) => v.text())
+            .then((v) => v.split("\n"))
+            .then((v) => mapData(v))
+            .then((data) => showDataInTable(data));
+      }
+      doWork();
+      function mapData(arr) {
+        // from array of strings to array of object;
+        let data = [];
+        arr.forEach((line) => {
+          const a = {};
+          let l = line.split(",");
+          a.tz = l[0];
+          a.res = [];
+          for (let i = 1; i < l.length; i++) {
+            let b = extractNumbersFromString(l[i]);
+            a.res[i - 1] = {
+              sgined: b[0],
+              correct: b[1],
+              qwestNumIn0: b[2],
+              sginedIn0: b[3],
+            };
+          }
+          data.push(a);
+        });
+        return data;
+      }
+      function extractNumbersFromString(inputString) {
+        // Remove non-numeric characters
+        const cleanedString = inputString.replace(/[^0-9\s]/g, "");
+
+        // Split by spaces
+        const substrings = cleanedString.split(" ");
+
+        // Convert each substring to a number
+        const numbers = substrings.map((substring) => parseInt(substring, 10));
+
+        return numbers;
+      }
+      function showDataInTable(data) {
+        const table = document.querySelector("#tbl1");
+        s = "";
+        data.forEach((std) => {
+          s += `<tr><th colspan=5> ${std.tz}</tr>`;
+          std.res.sort((a, b) => a.qwestNumIn0 - b.qwestNumIn0);
+          //for (let i = 0; i <= std.res.length; i++) {
+          std.res.forEach((res) => {
+            s += `<tr><td>${res.qwestNumIn0}</td><td class="corr">A</td>`;
+            for (let j = 0; j < 3; j++) {
+              s += `<td`;
+              if (j + 2 === res.sginedIn0) s += ` class='err'`;
+              s += `>${String.fromCharCode(66 + j)}</td>`;
+            }
+          });
+        });
+
+        table.innerHTML = s;
+      }
+
+    //   fetch("2csv.csv")
+    //     .then((v) => v.text())
+    //     .then((v) => v.split("\n"))
+    //     .then((v) => mapData(v))
+    //     .then((data) => showDataInTable(data));
+      // .then((result) => {
+      //   console.log(result);
+      // });
+    </script>
+  </body>
+</html>
