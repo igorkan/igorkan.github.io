@@ -66,6 +66,7 @@
             .then((data) => showDataInTable(data));
       }
       doWork();
+      
       function mapData(arr) {
         // from array of strings to array of object;
         let data = [];
@@ -119,14 +120,7 @@
         table.innerHTML = s;
       }
 
-    //   fetch("2csv.csv")
-    //     .then((v) => v.text())
-    //     .then((v) => v.split("\n"))
-    //     .then((v) => mapData(v))
-    //     .then((data) => showDataInTable(data));
-      // .then((result) => {
-      //   console.log(result);
-      // });
+   
     </script>
   </body>
 </html>

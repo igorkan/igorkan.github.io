@@ -1,3 +1,6 @@
 {
-    "list":[{"desc":"test","file":"test.csv"},{"desc":"test1","file":"2CSV.csv"}]
+    "list":[
+        {"desc":"WebDev4BA TermA","file":"2024-webBA-A.csv"},
+    {"desc":"WebDev TermA","file":"2024-web-a.csv"}
+]
 }
