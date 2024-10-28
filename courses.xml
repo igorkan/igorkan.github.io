@@ -1,6 +1,33 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="courses.xsl"?>
 <coursesList>
+<season>
+<name>Fall 2024</name>
+		<location>
+			<code img="gifs/pac_logo.jpg" name="Peres Academic Center"/>
+			<course>
+				<name>Android Applications Development</name>
+				<url></url>
+			</course>
+			<course>
+				<name>Workshop in GenAI</name>
+				<url></url>
+			</course>
+			
+        </location>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Max Stern Academic College of Emek Yezreel"/>
+			<course>
+				<name></name>
+				<url>Deep Learning and Big Data</url>
+			</course>
+			<course>
+				<name>Seminarion</name>
+				<url></url>
+			</course>
+        </location>
+ 
+	</season>
 <season actual="true">
 		<name>Spring 2024</name>
 		<location>
