@@ -16,10 +16,10 @@
 			
         </location>
 		<location>
-			<code img="gifs/mih_logo.jpg" name="Max Stern Academic College of Emek Yezreel"/>
+			<code img="gifs/mih_logo.jpg" name="Academic College of Emek Yezreel"/>
 			<course>
-				<name></name>
-				<url>Deep Learning and Big Data</url>
+				<name>Deep Learning and Big Data</name>
+				<url></url>
 			</course>
 			<course>
 				<name>Seminarion</name>

@@ -4,8 +4,46 @@
 <html>
 <head>
 	<title>Courses (IK Personal Site)</title>
+  <style>
+  div#test{text-align: center;}
+  </style>
 </head>
 <body>
+<div id="test">
+ <!-- ===== header==== -->
+      <div align="center">
+        <table>
+          <tr>
+            <td align="right"><img alt="" border="0" src="gifs/drk.gif" /></td>
+            <td><img alt="" border="0" src="gifs/courses.gif" /></td> 
+            <td align="left"><img src="gifs/p4.gif" /></td>
+          </tr>
+          <tr>
+            <td valign="top" colspan="3">
+              <img
+                alt=""
+                border="0"
+                height="1"
+                src="gifs/line.gif"
+                width="600"
+              />
+            </td>
+          </tr>
+          <tr>
+            <td colspan="3" align="center" >
+              <a href="index.html">(back to start page)</a>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <!-- ========= end of header========== -->
+<H1>Testimonies</H1>
+<a href="testimonies.html"><h2>My students about my courses (in hebrew)</h2></a>
+</div>
+<div align="center">
+ <h1>List of Courses </h1>
+</div>
+
 <div align="center"> 
 <TABLE WIDTH="70%" border="0" align="center"><tr><td>
  <xsl:for-each select="coursesList/season">
@@ -43,7 +81,18 @@
 
 </td></tr></TABLE>
 </div>
-
+<div align="center">
+      <table align="center" width="600">
+        <tr>
+          <td valign="top">
+            <img alt="" border="0" height="1" src="gifs/line.gif" width="600" />
+            <img alt="" border="0" height="1" src="gifs/line.gif" width="600" />
+          </td>
+        </tr>
+      </table>
+      <a href="#top">(back to top)</a>
+      <a href="index.html">(back to start page)</a>
+    </div>
 </body>
 </html>
 </xsl:template>    

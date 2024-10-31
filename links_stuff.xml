@@ -4,11 +4,34 @@
     <Area>
     	<Type>Upcoming Events</Type>
 		<!-- -->
-      
+      <Item>
+          <Name>NetSciX2025. International School and Conference on Network Science, Indore,
+		  India
+          </Name>
+          <What> I have a talk. </What>
+          <Source>
+          <Descripton>Conference Site</Descripton>
+          <Link>https://netscix2025.iiti.ac.in/</Link>
+          </Source>
+		  <!-- <Source>
+          <Descripton>Presentation</Descripton>
+          <Link>stuff/6A-Kanovsky.pdf</Link>
+          </Source> -->
+          
+          <Date>January 15-17, 2025</Date>
+        </Item>
         
     </Area>
   <Area>
     <Type>Past Events</Type>
+	<Item>
+          <Name>Academic Excelience Awards Event. Peres Academic Center, Israel. 
+          </Name>
+          <What> I have Excellent Lecturer Award. </What>
+                      
+          <Date>September 2, 2024</Date>
+        </Item>
+
 	<Item>
           <Name>NetSciX2024. International School and Conference on Network Science, Venice,
 		  Italy 
@@ -18,10 +41,10 @@
           <Descripton>Conference Site</Descripton>
           <Link>https://netscix2024.netscisociety.org/</Link>
           </Source>
-		  <Source>
+		  <!-- <Source>
           <Descripton>Presentation</Descripton>
           <Link>stuff/6A-Kanovsky.pdf</Link>
-          </Source>
+          </Source> -->
           
           <Date>January 22-25, 2024</Date>
         </Item>
