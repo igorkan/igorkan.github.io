@@ -2,6 +2,30 @@
 <?xml-stylesheet type="text/xsl" href="courses.xsl"?>
 <coursesList>
 <season>
+		<name>Spring 2025</name>
+		<location>
+			<code img="gifs/pac_logo.jpg" name="Peres Academic Center"/>
+			<course>
+				<name>Web Programming</name>
+				<url></url>
+			</course>
+			<course>
+				<name>Web Programming (for Business Administration)</name>
+				<url></url>
+			</course>
+        </location>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Academic College of Emek Yezreel"/>
+			<course>
+				<name>Introduction to Internet Technologies</name>
+				<url></url>
+			</course>
+			
+        </location>
+		
+
+</season>
+<season>
 <name>Fall 2024</name>
 		<location>
 			<code img="gifs/pac_logo.jpg" name="Peres Academic Center"/>
