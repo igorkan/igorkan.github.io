@@ -4,7 +4,12 @@
     <Area>
     	<Type>Upcoming Events</Type>
 		<!-- -->
-      <Item>
+      
+        
+    </Area>
+  <Area>
+    <Type>Past Events</Type>
+	<Item>
           <Name>NetSciX2025. International School and Conference on Network Science, Indore,
 		  India
           </Name>
@@ -20,10 +25,6 @@
           
           <Date>January 15-17, 2025</Date>
         </Item>
-        
-    </Area>
-  <Area>
-    <Type>Past Events</Type>
 	<Item>
           <Name>Academic Excelience Awards Event. Peres Academic Center, Israel. 
           </Name>

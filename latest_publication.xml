@@ -23,7 +23,24 @@
 <presentations>
 <!-- only presentation without publication are listed hear  -->
 
-
+<Item>
+ 			<ID latest="yes"/>
+			<Author>Kanovsky Igor, Deinega Dmitri, Levit Vadim </Author>
+			<Title> Overlapping Communities Detection by Hypergraph Constructing</Title>
+			<Location>NetSciX2025. International School and Conference on Network Science, 
+			Indore, India </Location>
+			<Year>2025</Year>
+			<Date>January 15-17</Date>
+			<Source>
+			     <item><comment>(Conference Site)</comment>
+				 <link>https://netscix2025.iiti.ac.in/</link></item>
+			</Source>
+			<!--
+			<Source>
+			     <item><comment>PDF</comment><link>./stuff/EISTA_E360MR.pdf</link></item>
+			</Source>
+           -->
+ </Item>
 <Item>
  			<ID latest="yes"/>
 			<Author>Kanovsky Igor, Deinega Dmitri, Levit Vadim </Author>
