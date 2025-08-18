@@ -10,6 +10,22 @@
   <Area>
     <Type>Past Events</Type>
 	<Item>
+          <Name>The 8th International Conference on Econometrics and Statistics (EcoSta 2025),
+		  Tokyo, Japan
+          </Name>
+          <What> I have a talk. </What>
+          <Source>
+          <Descripton>Conference Site</Descripton>
+          <Link>https://www.cmstatistics.org/EcoSta2025/index.php</Link>
+          </Source>
+		  <Source>
+          <Descripton>Presentation</Descripton>
+          <Link>stuff/ik-Tokyo.pdf</Link>
+          </Source>
+          
+          <Date>January 15-17, 2025</Date>
+        </Item>
+	<Item>
           <Name>NetSciX2025. International School and Conference on Network Science, Indore,
 		  India
           </Name>
