@@ -4,6 +4,7 @@
 <list>
 <publications>
   <!-- publications are listed in according to items from the document publications.xml//Pub_ID/@val as refId -->
+   <Item refId='14'/>
    <Item refId='12'/>
    <Item refId='11'/>
    <Item refId='10'/>

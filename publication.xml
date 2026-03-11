@@ -706,7 +706,23 @@
 			</Source>
 			 -->
 		</Pub_Item>
-		
+		<Pub_Item>
+			<Pub_ID latest="yes" val='14' />
+			<Author>Kanovsky Igor</Author>
+			
+			<Title>
+			Stochastic Process of Opinion Spreading in Social Networks
+			</Title>
+			<Publisher>
+			In Book of Abstracts: EcoSta 2025. 8th International Conference on Econometrics and Statistic. Waseda University, Tokyo, Japan. August 21-23,
+			</Publisher>
+			<Year>2025</Year>
+			<Pages>pp.153</Pages>
+			<!-- <Source>
+			     <item><comment>PDF</comment><link>http://donduet.edu.ua/attachments/article/y2012/zbirnuk_tez.pdf</link></item>
+			</Source>
+			 -->
+		</Pub_Item>
 		
 	</Area>
 </Pub_List>
