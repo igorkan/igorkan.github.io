@@ -4,7 +4,40 @@
     <Area>
     	<Type>Upcoming Events</Type>
 		<!-- -->
-      
+      <Item>
+          <Name>Sunbelt 2026 Conference by International Network for Social Network Analysis (INSNA),
+		  Daytona Beach, Florida, USA.
+          </Name>
+          <What> I have a talk. </What>
+          <Source>
+          <Descripton>Conference Site</Descripton>
+          <Link>https://www.insna.org/events/sunbelt-2026---daytona-beach#overview</Link>
+          </Source>
+		  <!-- <Source>
+          <Descripton>Presentation</Descripton>
+          <Link>stuff/ik-Tokyo.pdf</Link>
+          </Source> -->
+          
+          <Date>June 22 – 28, 2026</Date>
+        </Item>
+	  
+	  <Item>
+
+          <Name>The 20th annual Israel Association for Information Systems (ILAIS) conference,
+		   Rehovot, Israel.
+          </Name>
+          <What> I am a member of the Program Committee. </What>
+          <Source>
+          <Descripton>ILAIS Site</Descripton>
+          <Link>https://ilais.org.il/</Link>
+          </Source>
+		  <!-- <Source>
+          <Descripton>Presentation</Descripton>
+          <Link>stuff/ik-Tokyo.pdf</Link>
+          </Source> -->
+          
+          <Date>July 7, 2026</Date>
+        </Item>
         
     </Area>
   <Area>
