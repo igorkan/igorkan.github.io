@@ -5,6 +5,28 @@
     	<Type>Upcoming Events</Type>
 		<!-- -->
       <Item>
+          <Name>The 27th International Conference on Computational Statistics (COMPSTAT 2026),
+		  Athena, Greece.
+          </Name>
+          <What> I have a talk. </What>
+          <Source>
+          <Descripton>Conference Site</Descripton>
+          <Link>https://www.compstat2026.org/index.php</Link>
+          </Source>
+		  <!-- <Source>
+          <Descripton>Presentation</Descripton>
+          <Link>stuff/ik-Tokyo.pdf</Link>
+          </Source> -->
+          
+          <Date>August 25 – 28, 2026</Date>
+        </Item>
+	  
+	  
+        
+    </Area>
+  <Area>
+    <Type>Past Events</Type>
+	<Item>
           <Name>Sunbelt 2026 Conference by International Network for Social Network Analysis (INSNA),
 		  Daytona Beach, Florida, USA.
           </Name>
@@ -21,7 +43,7 @@
           <Date>June 22 – 28, 2026</Date>
         </Item>
 	  
-	  <Item>
+	<Item>
 
           <Name>The 20th annual Israel Association for Information Systems (ILAIS) conference,
 		   Rehovot, Israel.
@@ -38,10 +60,6 @@
           
           <Date>July 7, 2026</Date>
         </Item>
-        
-    </Area>
-  <Area>
-    <Type>Past Events</Type>
 	<Item>
           <Name>The 8th International Conference on Econometrics and Statistics (EcoSta 2025),
 		  Tokyo, Japan
