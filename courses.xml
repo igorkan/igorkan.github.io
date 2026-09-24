@@ -2,6 +2,36 @@
 <?xml-stylesheet type="text/xsl" href="courses.xsl"?>
 <coursesList>
 <season>
+	<name>Fall 2026</name>
+		<location>
+		<code img="gifs/pac_logo.jpg" name="Peres Academic Center"/>
+		<course>
+				<name>Workshop on GenAI</name>
+				<url></url>
+			</course>
+		<course>
+				<name>Intrduction to Data Science</name>
+				<url></url>
+			</course>
+			
+			<course>
+				<name>Android Applications Development</name>
+				<url></url>
+			</course>
+			
+			
+        </location>
+		<location>
+			<code img="gifs/mih_logo.jpg" name="Academic College of Emek Yezreel"/>
+			
+			<course>
+				<name>Seminarion: Cloud Computing and Versions Control</name>
+				<url></url>
+			</course>
+        </location>
+ 
+</season>
+<season>
 		<name>Spring 2026</name>
 		<location>
 			<code img="gifs/pac_logo.jpg" name="Peres Academic Center"/>
