@@ -723,6 +723,25 @@
 			</Source>
 			 -->
 		</Pub_Item>
+		<Pub_Item>
+			<Pub_ID latest="yes" val='15' />
+			<Author>Kanovsky Igor, Deinega Dmitri, Barzel Baruch </Author>
+			
+			<Title>
+			A Commonality Measure for Overlapping Clusters Detections
+			</Title>
+			<Publisher>
+			In Book of Abstracts: The 27th International Conference on Computational Statistics (COMPSTAT 2026),
+		  University of Athens, Greece, August 25 - 28, 
+			</Publisher>
+			<Year>2026</Year>
+			<Pages>p.35</Pages>
+			<!-- <Source>
+			     <item><comment>PDF</comment><link>http://donduet.edu.ua/attachments/article/y2012/zbirnuk_tez.pdf</link></item>
+			</Source>
+			 -->
+		</Pub_Item>
+		
 		
 	</Area>
 </Pub_List>

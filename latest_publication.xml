@@ -4,6 +4,7 @@
 <list>
 <publications>
   <!-- publications are listed in according to items from the document publications.xml//Pub_ID/@val as refId -->
+   <Item refId='15'/>
    <Item refId='14'/>
    <Item refId='12'/>
    <Item refId='11'/>
@@ -23,6 +24,24 @@
 
 <presentations>
 <!-- only presentation without publication are listed hear  -->
+<Item>
+ 			<ID latest="yes"/>
+			<Author>Kanovsky Igor, Deinega Dmitri, Barzel Baruch </Author>
+			<Title>Communities Detection in Social Networks by Hypergraph Constructing </Title>
+			<Location>Sunbelt 2026 Conference by International Network for Social Network Analysis (INSNA),
+		  Daytona Beach, Florida, USA. </Location>
+			<Year>2026</Year>
+			<Date>June 22 - 28</Date>
+			<Source>
+			     <item><comment>(Conference Site)</comment>
+				 <link>https://www.insna.org/events/sunbelt-2026---daytona-beach#overview</link></item>
+			</Source>
+			<!--
+			<Source>
+			     <item><comment>PDF</comment><link>./stuff/EISTA_E360MR.pdf</link></item>
+			</Source>
+           -->
+ </Item>
 
 <Item>
  			<ID latest="yes"/>
